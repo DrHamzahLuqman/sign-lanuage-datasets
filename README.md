@@ -34,6 +34,8 @@ These datasets are used for machine-learning research
 |16| Purdue ASL           |USA|?    |14[3]| ?        | ?    |W/S  |V,[14]   |       |[6]   |N|
 |17| CUNY ASL             |USA|?    |8    |~33000[4] | ?    |S    |VR,[16]  |[7]    |U     |N|
 |18| SignsWorld Atlas     |Ara|[2]  |10   | ?        | ?    |W,S,H|V,[17,14]|?      |U     |N|
+|19| KArSL		  |Ara|502  |3   | 75,300    | ?    |W	  |VR, VD,[10,14, 21]|?  |CA    |N|
+
 
 [1] - letters/numbers;
 [2] - multiple types;
@@ -115,6 +117,7 @@ These datasets are used for machine-learning research
 17. [CUNY ASL Dataset for Animation](https://facundoq.github.io/unlp/sign_language_datasets/latlab.cs.qc.cuny.edu/corpus)
     1.  [Collecting and evaluating the CUNY ASL corpus for research on American Sign Language animation](https://www.sciencedirect.com/science/article/pii/S0885230813000879)
 18. [SignsWorld Atlas; a benchmark Arabic Sign Language database](https://www.sciencedirect.com/science/article/pii/S1319157814000548)
+19. [KArSL: Arabic Sign Language Dataset](https://dl.acm.org/doi/10.1145/3423420#:~:text=Signs%20in%20KArSL%20database%20are,language%20recognition%20using%20this%20database.)
 
 **Datasets Handshape features (Handshape/hand posture datasets) but not all are for sign language**
 
